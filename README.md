@@ -1,4 +1,4 @@
 Sikuli
 ======
 
-Test patterns for testing with Siluli
+Patterns and functions A.K.A. how do I do it?
